@@ -1,6 +1,19 @@
-14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
-14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
-14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
-14:05:22.022 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
-14:05:22.022 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
-14:05:23.023 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:09.009 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:16:10.010 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:16:11.011 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:11.011 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:16:11.011 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:16:12.012 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+18:16:12.012 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:13.013 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:16:13.013 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:16:14.014 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+18:16:15.015 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:15.015 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:16:15.015 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:16:26.026 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:16:26.026 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:26.026 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:16:26.026 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:16:27.027 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:16:28.028 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***

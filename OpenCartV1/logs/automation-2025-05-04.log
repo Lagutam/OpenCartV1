@@ -1,0 +1,59 @@
+14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+14:05:21.021 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+14:05:22.022 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+14:05:22.022 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+14:05:23.023 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:07:41.041 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to URL***
+18:07:42.042 [main] INFO  testcases.TC001_AccountRegistrationTest - ***URL Loaded****
+18:07:42.042 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+18:07:42.042 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to Register Page***
+18:07:42.042 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Providing customer details***
+18:07:43.043 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Validating confirmation message***
+18:07:43.043 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Test Passed***
+18:07:44.044 [main] INFO  testcases.TC002_LoginPageTest - ***Navigating to URL***
+18:07:45.045 [main] INFO  testcases.TC002_LoginPageTest - ***URL Loaded****
+18:07:45.045 [main] INFO  testcases.TC002_LoginPageTest - ***Starting TC_002_LoginPageTest***
+18:07:45.045 [main] INFO  testcases.TC002_LoginPageTest - ***Navigated to login page***
+18:07:45.045 [main] INFO  testcases.TC002_LoginPageTest - ***Validating LoginSuccess***
+18:07:46.046 [main] INFO  testcases.TC002_LoginPageTest - ***Test Passed***
+18:07:46.046 [main] INFO  testcases.TC002_LoginPageTest - ***Finished TC002_TestLoginPage***
+18:07:47.047 [main] INFO  testcases.TC003_LoginDDTest - ***Navigating to URL***
+18:07:47.047 [main] INFO  testcases.TC003_LoginDDTest - ***URL Loaded****
+18:07:48.048 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:07:48.048 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:07:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:07:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:07:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:07:49.049 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:07:50.050 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+18:07:51.051 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:07:51.051 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:07:51.051 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:07:52.052 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+18:07:52.052 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:07:52.052 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:07:52.052 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:08:03.003 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:08:03.003 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:08:03.003 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+18:08:03.003 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+18:08:03.003 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+18:08:04.004 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+18:16:02.002 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to URL***
+18:16:02.002 [main] INFO  testcases.TC001_AccountRegistrationTest - ***URL Loaded****
+18:16:02.002 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+18:16:02.002 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to Register Page***
+18:16:03.003 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Providing customer details***
+18:16:04.004 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Validating confirmation message***
+18:16:04.004 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Test Passed***
+18:16:05.005 [main] INFO  testcases.TC002_LoginPageTest - ***Navigating to URL***
+18:16:05.005 [main] INFO  testcases.TC002_LoginPageTest - ***URL Loaded****
+18:16:05.005 [main] INFO  testcases.TC002_LoginPageTest - ***Starting TC_002_LoginPageTest***
+18:16:06.006 [main] INFO  testcases.TC002_LoginPageTest - ***Navigated to login page***
+18:16:06.006 [main] INFO  testcases.TC002_LoginPageTest - ***Validating LoginSuccess***
+18:16:06.006 [main] INFO  testcases.TC002_LoginPageTest - ***Test Passed***
+18:16:06.006 [main] INFO  testcases.TC002_LoginPageTest - ***Finished TC002_TestLoginPage***
+18:16:07.007 [main] INFO  testcases.TC003_LoginDDTest - ***Navigating to URL***
+18:16:08.008 [main] INFO  testcases.TC003_LoginDDTest - ***URL Loaded****
+18:16:09.009 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
