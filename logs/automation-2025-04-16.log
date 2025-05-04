@@ -1,0 +1,57 @@
+20:11:25.025 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:11:26.026 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:11:26.026 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:11:27.027 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:11:27.027 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Failed***
+20:12:36.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+20:12:37.037 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:12:38.038 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:12:38.038 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:12:38.038 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:12:39.039 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:12:39.039 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Passed***
+20:20:35.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\parallel.xml
+
+20:20:38.038 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:20:38.038 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:20:38.038 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:20:39.039 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:20:39.039 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:20:40.040 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:20:40.040 [TestNG-tests-1] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Passed***
+20:20:40.040 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:20:40.040 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:20:41.041 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:20:42.042 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:20:42.042 [TestNG-tests-2] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Passed***
+20:20:53.053 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:20:54.054 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:20:54.054 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:20:54.054 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:20:55.055 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:20:55.055 [TestNG-tests-3] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Passed***
+20:46:10.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+20:46:12.012 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:46:12.012 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:46:12.012 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:46:13.013 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***
+20:46:13.013 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Validating confirmation message***
+20:46:13.013 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Test Passed***
+20:39:13.013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+20:40:52.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+20:42:09.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+20:42:18.018 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to URL***
+20:42:22.022 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+20:42:22.022 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Navigating to Register Page***
+20:42:23.023 [main] INFO  testcases.TC_001_AccountRegistrationTest - ***Providing customer details***

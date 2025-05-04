@@ -1,0 +1,62 @@
+13:57:30.030 [main] INFO  testcases.TC002_LoginPageTest - ***Navigating to URL***
+13:57:30.030 [main] INFO  testcases.TC002_LoginPageTest - ***URL Loaded****
+13:57:30.030 [main] INFO  testcases.TC002_LoginPageTest - ***Starting TC_002_LoginPageTest***
+13:57:31.031 [main] INFO  testcases.TC002_LoginPageTest - ***Navigated to login page***
+13:57:31.031 [main] INFO  testcases.TC002_LoginPageTest - ***Validating LoginSuccess***
+13:57:31.031 [main] INFO  testcases.TC002_LoginPageTest - ***Test Passed***
+13:57:31.031 [main] INFO  testcases.TC002_LoginPageTest - ***Finished TC002_TestLoginPage***
+13:57:32.032 [main] INFO  testcases.TC003_LoginDDTest - ***Navigating to URL***
+13:57:33.033 [main] INFO  testcases.TC003_LoginDDTest - ***URL Loaded****
+13:57:33.033 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+13:57:34.034 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+13:57:34.034 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+13:57:35.035 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+13:57:35.035 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+13:57:35.035 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+13:57:36.036 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+13:57:36.036 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+13:57:36.036 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+13:57:37.037 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+13:57:37.037 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+13:57:38.038 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+13:57:38.038 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+13:57:38.038 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+13:57:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+13:57:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+13:57:49.049 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+13:57:49.049 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+13:57:50.050 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+13:57:50.050 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+14:04:57.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sharm\eclipse-workspace\OpenCartV1\master.xml
+
+14:04:58.058 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to URL***
+14:04:58.058 [main] INFO  testcases.TC001_AccountRegistrationTest - ***URL Loaded****
+14:04:58.058 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Starting verify_account_registration() execution***
+14:04:59.059 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Navigating to Register Page***
+14:04:59.059 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Providing customer details***
+14:05:00.000 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Validating confirmation message***
+14:05:00.000 [main] INFO  testcases.TC001_AccountRegistrationTest - ***Test Passed***
+14:05:01.001 [main] INFO  testcases.TC002_LoginPageTest - ***Navigating to URL***
+14:05:01.001 [main] INFO  testcases.TC002_LoginPageTest - ***URL Loaded****
+14:05:01.001 [main] INFO  testcases.TC002_LoginPageTest - ***Starting TC_002_LoginPageTest***
+14:05:02.002 [main] INFO  testcases.TC002_LoginPageTest - ***Navigated to login page***
+14:05:02.002 [main] INFO  testcases.TC002_LoginPageTest - ***Validating LoginSuccess***
+14:05:05.005 [main] INFO  testcases.TC002_LoginPageTest - ***Test Passed***
+14:05:05.005 [main] INFO  testcases.TC002_LoginPageTest - ***Finished TC002_TestLoginPage***
+14:05:05.005 [main] INFO  testcases.TC003_LoginDDTest - ***Navigating to URL***
+14:05:06.006 [main] INFO  testcases.TC003_LoginDDTest - ***URL Loaded****
+14:05:07.007 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+14:05:07.007 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+14:05:08.008 [main] INFO  testcases.TC003_LoginDDTest - ***Test Passed
+14:05:08.008 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+14:05:08.008 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+14:05:08.008 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+14:05:09.009 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+14:05:09.009 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+14:05:10.010 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+14:05:10.010 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***
+14:05:10.010 [main] INFO  testcases.TC003_LoginDDTest - ***Test Failed***
+14:05:11.011 [main] INFO  testcases.TC003_LoginDDTest - ***Finished LoginDDTest***
+14:05:11.011 [main] INFO  testcases.TC003_LoginDDTest - ***Starting LoginDDTest***
+14:05:11.011 [main] INFO  testcases.TC003_LoginDDTest - *** At Login Page***

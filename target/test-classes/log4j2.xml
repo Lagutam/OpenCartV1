@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+	<Properties>
+		<Property name="basePath">C:\Users\sharm\eclipse-workspace\OpenCartV1\logs</Property>
+	</Properties>
+
+	<Appenders>
+		<Console name="CONSOLE" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:MM:SS.SSS}[%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<RollingFile
+			name="File" 
+			fileName="${basePath}/automation.log"
+			filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+			<PatternLayout
+				pattern="%d{HH:mm:ss.sss} [%t] %-5level %logger{36} - %msg%n" />
+			<Policies>
+			<SizeBasedTriggeringPolicy size="5000" />
+			</Policies>
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Root level="INFO">
+			<!--<AppenderRef ref="CONSOLE" level="WARN"/>-->
+			<AppenderRef ref="File" />
+		</Root>
+		<!-- 
+    <Logger name="org.example" level="DEBUG">
+      <AppenderRef ref="DEBUG_LOG"/>
+    </Logger>-->
+	</Loggers>
+</Configuration>
